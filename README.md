@@ -1,12 +1,12 @@
 
 ## Librerias: ##
 
-Lifecycle extensions.
-Room.
-Retrofit.
-Glide.
-Gson.
-Koin.
+- Lifecycle extensions.
+- Room.
+- Retrofit.
+- Glide.
+- Gson.
+- Koin.
 
 
 ## Referencias ##
